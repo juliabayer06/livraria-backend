@@ -1,0 +1,24 @@
+{
+  "categorias": [
+    { "id": 1, "name": "romance" },
+    { "id": 2, "name": "suspense" },
+    { "id": 3, "name": "romance" },
+    { "id": 4, "name": "terror" }
+  ],
+  "editoras": [],
+  "autors": [],
+  "livros": [
+    {
+      "id": 1,
+      "É Assim que Acaba": "Livro 1",
+      "categoryId": 1,
+      "publisherId": 1
+    },
+    {
+      "id": 1,
+      "A garota do lago": "Livro 2",
+      "categoryId": 2,
+      "publisherId": 1
+    }
+  ]
+}
